@@ -1,1 +1,9 @@
+# Core navigation libraries
+npm install @react-navigation/native @react-navigation/stack react-native-gesture-handler react-native-safe-area-context
+
+# Peer dependencies for React Navigation
+expo install react-native-screens react-native-safe-area-context
+
+# Form handling and validation
+npm install formik yup
 
